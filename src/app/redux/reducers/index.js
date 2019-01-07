@@ -1,0 +1,1 @@
+export { default as newUserReducer } from './newUser';
